@@ -1,6 +1,6 @@
 {
-  "name": "zaeemaltaf-number_guess_game",
-  "version": "1.0.2",
+  "name": "muhammadzaeemaltaf-number-guess-game",
+  "version": "1.0.0",
   "description": "This is a cli based number guessing game. Test your guessing skills and try to guess the correct number within a specified range.",
   "main": "index.js",
   "type": "module",
